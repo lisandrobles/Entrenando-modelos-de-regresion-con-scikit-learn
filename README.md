@@ -1,4 +1,4 @@
-# Entrenando-modelos-de-regresion-con-scikit-learn
+# Entrenando modelos de regresion con scikit learn
 Este proyecto trata del entrenamiento de un modelo de regresión lineal simple y k-nearest neighbors. El objetivo es entrenar un modelo para generalizar la respuesta satisfacción de vida, usando el producto interno bruto por cápita.
 
 He entrenado un modelo de regresión lineal y un modelo de k-nearest neighbors, ambos modelos nos entregan buenas predicciones basadas en los datos propocionados.
